@@ -1,0 +1,67 @@
+
+body { 
+    color: rgb(170, 152, 131);
+    background-color: #f0ddb9;
+    display:flex; 
+    flex-direction:column; 
+    justify-content:center;
+    min-height: 90vh;
+    align-items: center;
+  }
+
+  .aclasssofuckinglongthatnobodycanreadordebugthispileoftrashwebsite{
+    position: absolute;
+    background-color: rgba(170, 152, 131, 0.2);
+    margin: 1rem;
+    padding: 1em;
+    border: hidden;
+    border-radius: 2px;
+}
+
+.aclasssofuckinglongthatnobodycanreadordebugthispileoftrashwebsite p{
+    color: rgb(87, 78, 68);
+}
+
+
+.olive {
+    width: 100%;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(48, 47, 42);
+    cursor:pointer;
+}
+
+.oil {
+    font-style: italic;
+}
+
+.olivia {
+    font-size: medium;
+}
+
+.pine {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    border: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color:#f0e6ae;
+    transition-duration: 0.3s;
+    background-color: black;
+    border-radius: 2px;
+}
+
+.pine:hover {
+    background-color: rgb(78, 76, 58);
+    cursor:pointer;
+}
+
+.HTMLisforlosersslmaoooooooorustissomuchbetter-container {
+    position:relative;
+    margin: 0 auto;
+    text-align: center;
+}
+.HTMLisforlosersslmaoooooooorustissomuchbetter {
+    font-size: 10rem;
+}
